@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<html lang="ja">
     <?php
         echo '（・ｘ・）<br/>';
         echo 'お問い合わせフォーム';
